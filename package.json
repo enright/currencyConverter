@@ -1,0 +1,21 @@
+{
+  "name": "currencyConverter",
+  "version": "0.0.1",
+  "description": "convert currency values",
+  "author": "Bill Enright <bill@yisup.com>",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "node-uuid": "~1.4.1",
+    "request": "~2.34.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.0",
+    "grunt": "~0.4.4",
+    "grunt-contrib-jshint": "~0.9.2",
+    "grunt-mocha-cli": "~1.7.0",
+    "should": "~3.1.3"
+  }
+}
